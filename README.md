@@ -4,7 +4,7 @@
 ### Features
 1) Block IP addresses
 2) Block access to certain ports 
-3) Block specifed prefiexes of IP address (to block networks)
+3) Block specifed prefixes of IP address (to block networks)
 4) Block too many requests made by the same IP in a short period of time (user can specify threshold and time)
 
 ### Steps to Run
@@ -20,7 +20,7 @@
 
 ### Credits:
 1) Meghana Holla : https://github.com/meghana-holla
-1) Ornella D'suoza : https://github.com/Onurene
+1) Ornella D'souza : https://github.com/Onurene
 
 ### Author
 
