@@ -2,7 +2,7 @@
 ###### *DISCLAIMER: The following code is only for Ubuntu.*
 
 ### Features
-1) Block IP addersses
+1) Block IP addresses
 2) Block access to certain ports 
 3) Block specifed prefiexes of IP address (to block networks)
 4) Block too many requests made by the same IP in a short period of time (user can specify threshold and time)
