@@ -8,7 +8,7 @@
 4) Block too many requests made by the same IP in a short period of time (user can specify threshold and time)
 
 ### Steps to Run
-1) Type the following terminal command: iptables -I INPUT -d 192.168.0.0/24 -j NFQUEUE --queue-num 1
+1) Type the following terminal command: <br>iptables -I INPUT -d 192.168.0.0/24 -j NFQUEUE --queue-num 1
 2) Fill out the rules in the JSON file as follows:
 <br><img src = "/screenshots/config.PNG" width="50%"></img><br>
 3) Execute firewall.py using python3
