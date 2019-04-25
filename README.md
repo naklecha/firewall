@@ -1,5 +1,5 @@
 # firewall
-###### *DISLAIMER: The following code is only for Ubuntu.*
+###### *DISCLAIMER: The following code is only for Ubuntu.*
 
 ### Features
 1) Block IP adderesses
