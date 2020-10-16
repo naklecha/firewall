@@ -1,4 +1,4 @@
-# firewall
+# Firewall
 ###### *DISCLAIMER: The following code is only for Ubuntu.*
 
 ### Features
